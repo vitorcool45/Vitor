@@ -1,4 +1,4 @@
-package br.org.generation.lojadegamesl.controller;
+package br.org.generation.lojadegames.controller;
 
 import java.util.List;
 
