@@ -16,5 +16,10 @@
     <fullyQualifiedTypeName name="java.nio.charset.Charset"/>
     <fullyQualifiedTypeName name="org.apache.commons.codec.binary.Base64"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="javax.validation.Validation"/>
+    <fullyQualifiedTypeName name="javax.validation.Validator"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Order"/>
 </qualifiedTypeNameHistroy>

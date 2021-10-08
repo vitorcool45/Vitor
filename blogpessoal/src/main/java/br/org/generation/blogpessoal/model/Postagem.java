@@ -35,6 +35,10 @@ public class Postagem {
 	private Date data = new java.sql.Date(System.currentTimeMillis());
 	
 	@ManyToOne
+    @JsonIgnoreProperties("postagem")
+    private Usuario usuario;
+	
+	@ManyToOne
 	@JsonIgnoreProperties("postagem")
 	private Tema tema;
 		
